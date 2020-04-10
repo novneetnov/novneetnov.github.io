@@ -1,0 +1,11 @@
+- name: Supervised/Unsupervised Learning
+  percentage: 70
+  color: danger
+
+- name: Deep Learning
+  percentage: 40
+  color: dark
+
+- name: Reinforced Learning
+  percentage: 10
+  color: info

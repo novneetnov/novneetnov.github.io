@@ -1,0 +1,32 @@
+- name: Machine Learning
+  certificate: https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/970311~2745894/pdf
+  instructors: Andrew NG
+  course_link: https://www.coursera.org/learn/machine-learning
+  university: Stanford University
+  mooc: Coursera
+  description: This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include (i) Supervised learning, (ii) Unsupervised learning, (iii) Best practices in machine learning. It includes case studies to help apply ML algorithms to building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, and other areas.
+  
+- name: Exploratory Data Analysis
+  certificate: https://drive.google.com/file/d/1_zIsBF84Qd9vvZ9rTqGPOwvjV-4757RW/view
+  instructors: Jeff Leek
+  course_link: https://www.coursera.org/learn/exploratory-data-analysis
+  university: Johns Hopkins Bloomberg School of Public Health
+  mooc: Coursera
+  description: This course covers the essential exploratory techniques for summarizing data. These techniques are typically applied before formal modeling commences and can help inform the development of more complex statistical models.
+  
+- name: Reproducible Research
+  certificate: https://drive.google.com/file/d/1ntYwXI3fXWLpHDnuGJH6nIoyFDFfHtcn/view
+  instructors: Jeff Leek
+  course_link: https://www.coursera.org/learn/reproducible-research
+  university: Johns Hopkins Bloomberg School of Public Health
+  mooc: Coursera
+  description: This course focuses on the concepts and tools behind reporting modern data analyses in a reproducible manner. Reproducible research is the idea that data analyses, and more generally, scientific claims, are published with their data and software code so that others may verify the findings and build upon them.
+
+- name: Fundamentals of Computing Specialization
+  certificate: https://drive.google.com/open?id=1-90sIXVmb3jK3ThiFWXOgbFXDtcz5Jmm
+  instructors: Scott Rixner, Joe Warren, Associate Professor
+  course_link: https://www.coursera.org/specializations/computer-fundamentals
+  university: Rice University
+  mooc: Coursera
+  description: This Specialization covers much of the material that first-year Computer Science students take at Rice University. Students learn sophisticated programming skills in Python from the ground up and apply these skills in building more than 20 fun projects. The Specialization concludes with a Capstone exam that allows the students to demonstrate the range of knowledge that they have acquired in the Specialization.
+  

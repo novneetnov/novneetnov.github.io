@@ -1,0 +1,28 @@
+<div class="col-lg">
+  <h2 class="mb-3">{{ include.title }}</h2>
+  {% for item in site.data.certifications %}
+  {% assign loopindex = forloop.index | modulo: 2 %}
+  {% if loopindex == 1 %}
+  <div class="skill">
+    <div class="row">
+  {% endif %}
+      <div class="col-sm-12 col-md-6">
+        <div class="card">
+          <div class="card-body">
+            <h4 class="card-title">
+              <a href="{{ item.course_link }}" target="_blank">{{ item.name }}</a>
+              <span class="badge badge-pill badge-secondary"><span class="small">{{ item.mooc }}</span></span>
+            </h4>
+            <h6 class="card-subtitle mb-3 text-danger">{{ item.university }}</h6>
+            <h6 class="card-subtitle mb-2 text-info">Instructors: {{ item.instructors }}</h6>
+            <p class="card-text small">{{ item.description }}</p>
+            <a href="{{ item.certificate }}" target="_blank" class="btn btn-primary btn-sm">View Certificate</a>
+          </div>
+        </div>
+      </div>
+  {% if loopindex == 0 %}
+    </div>
+  </div>
+  {% endif %}
+  {% endfor %}
+</div>
