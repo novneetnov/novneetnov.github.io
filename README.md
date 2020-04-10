@@ -1,7 +1,3 @@
-<div align="center">
-    <h1>portfolYOU</h1>
-    <i>A beautiful portfolio Jekyll theme that works with GitHub Pages.</i>
-    <br><br>
-    <img src="screenshot.gif">
-    <sub><sup>© 2019 portfolYOU, licensed under the <a href="./LICENSE">MIT License</a>.</sup></sub>
-</div>
+# This is my personal website & blog.
+
+I have used jekyll theme portfolYOU to build this site. My website is published at <a href="www.techienov.com">Techienov</a>
