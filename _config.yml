@@ -2,9 +2,10 @@
 title               : techieNOV
 description         : >-
                       "I work with Product Owners to build awesome tech products
-                      that are scalable and don't break in production."
+                      that are scalable and don't break in production. 
+                      This includes teams from around the globe working in different timezones."
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+repository          : novneetnov.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 
 
