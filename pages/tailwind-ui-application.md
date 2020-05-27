@@ -40,7 +40,7 @@ This means to make each individual component as dumb as possible and as independ
 This takes time and effort in the immediate now, but it more than compensates by saving time and increasing joy in the long run.
 I enjoy implementing the process of componentization, making small re-usable and scalable bits, 
 and have applied it to projects across all the stacks (frontend, backend & mobile) I have used.
-I would love to apply these skills in breaking down repeated petterns into re-usable components in the tailwind project as well.
+I would love to apply these skills in breaking down the repeated petterns into re-usable components in the tailwind project as well.
 
 ### THE FUTURE AND INTERESTS
 I would like tailwindcss to be as widely used as material designs. Its one thing to be backed by Google.
@@ -69,6 +69,11 @@ To deal with these problems, I (along with a partner) have formed a small compan
 [Evos Solutions Pvt. Ltd.](https://evossolutions.com/)
 The role of the company is just to have a contract between the client company and Evos Solutions. 
 This makes all paperwork & payment seamless.
+
+### THANK YOU
+Lastly, I would like to thank you for your time and going through this application.
+You can contact me at [novneet@evossolutions.com](novneet@evossolutions.com) for anything you want to say. 
+Your feedbacks are most welcome. Let me know you take on this as well.
 
 A quick summary of all my skills can be found here:
 [https://novneetnov.github.io/about/](https://novneetnov.github.io/about/).
