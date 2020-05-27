@@ -1,11 +1,12 @@
 <div class="col mt-4">
+  <h6><b style="color: green">NOTE: </b>The following are the organizations I have been associated with. However, I have worked for multiple clients during my freelancing career & while serving as CTO@Evos. To see some of my work refer to the projects page.</h6>
   <div class="timeline-body">
     {% for item in site.data.timeline %}
       <div class="timeline-item">
         <div class="content">
           <h2>{{ item.title }}</h2>
           <h6 class="date">{{ item.from }} — {{ item.to }}</h6>
-          <p>{{ item.description }}</p>
+          <!--<p>{{ item.description }}</p>-->
         </div>
       </div>
     {% endfor %}

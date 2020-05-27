@@ -1,9 +1,8 @@
 ### Site Settings ###
 title               : techieNOV
 description         : >-
-                      "I work with Product Owners to build awesome tech products
-                      that are scalable and don't break in production. 
-                      This includes teams from around the globe working in different timezones."
+                      "I work with Product Owners around the globe to build awesome tech products
+                      that are scalable and don't break in production."
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : novneetnov.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -19,6 +18,7 @@ nav_exclude:                                            # The following paths ar
   - pages/tags.html
   - pages/404.html
   - pages/index.md
+  - pages/tailwind-ui-application.md
   - documentation/partials/**                           # For Documentation Only
 
 
